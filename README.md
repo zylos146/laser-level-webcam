@@ -67,7 +67,7 @@ Ensure you are running Python 3.11 by checking your running python version:
 python --version
 ```
 
-It should respond with `Python 3.11.9`
+It should respond with a version containing `Python 3.11`. `Python 3.11.9` for instance would be acceptable.
 
 Python 3.12 cannot be used due to an incompatability with the currently used PySide6 version
 
